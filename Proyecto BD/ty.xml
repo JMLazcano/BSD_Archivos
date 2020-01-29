@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <row>
+        <lo>hello 10</lo>
+        <level>medium</level>
+        <id_user>10</id_user>
+        <text>hello 10</text>
+    </row>
+    <row>
+        <lo>hello 10</lo>
+        <level>medium</level>
+        <id_user>20</id_user>
+        <text>hello 20</text>
+    </row>
+    <row>
+        <lo>hello 10</lo>
+        <level>medium</level>
+        <id_user>30</id_user>
+        <text>hello 30</text>
+    </row>
+    <row>
+        <lo>hello 10</lo>
+        <level>medium</level>
+        <id_user>40</id_user>
+        <text>hello 40</text>
+    </row>
+    <row>
+        <lo/>
+        <level/>
+        <id_user/>
+        <text/>
+    </row>
+</root>

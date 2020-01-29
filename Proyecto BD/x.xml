@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <nombre>Carlitos</nombre>
+    <puntos>6.5</puntos>
+    <fecha>2019-05-14</fecha>
+  </row>
+  <row>
+    <nombre>Maqueen</nombre>
+    <puntos>7.0</puntos>
+    <fecha>2019-12-07</fecha>
+  </row>
+  <row>
+    <nombre>Milos</nombre>
+    <puntos>150.0</puntos>
+    <fecha>0001-01-02</fecha>
+  </row>
+</root>
