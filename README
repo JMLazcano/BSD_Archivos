@@ -1,0 +1,4 @@
+This is a file manager based on Java and OOP.
+Final project for the course Object Oriented Programing.
+Consists of a API, it reads file formats JSON, CSV, XMLS and stores data into it's objetcs. 
+It is also able to transform back into the desired format independent of it's original format.
